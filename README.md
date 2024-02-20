@@ -1,3 +1,5 @@
+인하대 이충헌 박사의 SimilarNet 소스코드 (IEEE Access)
+
 # SimilarNet
 This repository contains TensorFlow Keras codes for SimilarNet
 
